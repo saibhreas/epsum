@@ -87,4 +87,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
  im into the dolphins porting of the program
  
  having a moment with dolphins
+ It's hhigh tide: this is a cleanly deployed version minus the database.  Attempting data base addition via vercels instuctions again. Multiple time is charming"
  
