@@ -84,8 +84,5 @@ Next JS: Learn Next JS
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
- im into the dolphins porting of the program
- 
- having a moment with dolphins
- It's hhigh tide: this is a cleanly deployed version minus the database.  Attempting data base addition via vercels instuctions again. Multiple time is charming"
- the dolphin parade says onto chapter 7
+
+dolphin push to see if vercel is till cooperating
