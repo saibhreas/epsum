@@ -1,6 +1,7 @@
 import { PencilIcon, PlusIcon, TrashIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 
+//CREATE
 export function CreateInvoice() {
   return (
     <Link
@@ -13,6 +14,7 @@ export function CreateInvoice() {
   );
 }
 
+//UPDATE
 export function UpdateInvoice({ id }: { id: string }) {
   return (
     <Link
@@ -24,6 +26,7 @@ export function UpdateInvoice({ id }: { id: string }) {
   );
 }
 
+//DELETE
 export function DeleteInvoice({ id }: { id: string }) {
   return (
     <>
