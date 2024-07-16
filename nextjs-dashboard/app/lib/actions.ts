@@ -70,7 +70,7 @@ export async function updateInvoice(id: string, formData: FormData) {
 
 //DELETE
 export async function deleteInvoice(id: string) {
-  throw new Error('Failed to Delete Invoice');
+ 
  
   // Unreachable code block
   try {
